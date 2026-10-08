@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Student of Bioinformatics at Delta University (Egypt)
+- 🎓 Student of Artificial Intelligence at Delta University (Egypt)
 - 📊 Certified Data Analyst with strong skills in data wrangling, visualization & preprocessing
 - 💡 Passionate about AI, Deep Learning, and Bioinformatics research
 - 🧠 Currently working on projects in medical imaging, drug prediction, and genomics
